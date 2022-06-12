@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>laluison</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="../index.html">Lalu Is On</a></li>
+                <li><a href="./nosotros.html">Nosotros</a></li>
+                <li><a href="./novedades.html">Novedades</a></li>
+                <li><a href="./galeria.html">Galería</a></li>
+                <li><a href="./formulario.html">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Formulario</h2>
+        <table>
+
+            <form action="">
+                <fieldset>
+                    <legend>Información de contacto</legend>
+                    <p>Sexo</p>
+                    <input type="radio" name="sexo" value="hombre"><label for="sexo">hombre</label>
+                    <input type="radio" name="sexo" value="mujer"><label for="sexo">mujer</label>
+                    <p>Nombre</p>
+                    <input type="text" placeholder="Coloca tu nombre"
+                    <br>
+                    <p>Apellido</p>
+                    <input type="text" placeholder="Coloca tu apellido"
+                    <br>
+                    <p>E-mail</p>
+                    <input type="text" placeholder="Coloca tu E-mail"
+                    <br>
+                    <br>
+                    <br>
+                    <input type="submit" value="Enviar">
+                </fieldset>
+            </form>
+        </table>
+    </main>
+    <footer>
+        Made with love
+    </footer>
+</body>
+</html>
