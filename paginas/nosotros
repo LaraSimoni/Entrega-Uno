@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>laluison</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="../index.html">Lalu Is On</a></li>
+                <li><a href="./nosotros.html">Nosotros</a></li>
+                <li><a href="./novedades.html">Novedades</a></li>
+                <li><a href="./galeria.html">Galería</a></li>
+                <li><a href="./formulario.html">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Nosotros</h2>
+    </main>
+    <footer>
+        Made with love
+    </footer>
+</body>
+</html>
